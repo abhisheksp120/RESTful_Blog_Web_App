@@ -1,2 +1,3 @@
 # RESTful_Blog_Web_App
-A Web app write blogs
+
+A Blog web app create using RESTful routes, express framework, and MongoDB.
